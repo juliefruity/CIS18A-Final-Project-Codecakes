@@ -1,9 +1,9 @@
-# CIS18A-Final-Project-Codecakes
-Creator Name: Julissa Mota
-Company Name: Pro-J
-Course: CIS18A
-Professor: Kasey Nguyen
-Date of creation: 7/30/2020
+# CIS18A-Final-Project-Codecakes |
+Creator Name: Julissa Mota |
+Company Name: Pro-J |
+Course: CIS18A |
+Professor: Kasey Nguyen |
+Date of creation: 7/30/2020 |
 Version: 1.0
 
 Purpose of Program: Created by the company Pro-J, this program is designed specifically for the cupcake company, Codecakes, to provide a smooth, yet simple step-by-step menu program for customers and staff operation. This program is to provide a satisfying experience for the users as they have the ability to customize a delicious cupcake while being informative on flavors, prices, and reassuring deicions through a reciept.
