@@ -1,4 +1,4 @@
-# CIS18A-Final-Project-Codecakes |
+# CIS18A-Final-Project-Codecakes
 Creator Name: Julissa Mota |
 Company Name: Pro-J |
 Course: CIS18A |
